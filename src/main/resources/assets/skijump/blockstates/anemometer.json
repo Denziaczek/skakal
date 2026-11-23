@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "strength=0": {
+      "model": "skijump:block/anemometer_0"
+    },
+    "strength=1": {
+      "model": "skijump:block/anemometer_1"
+    },
+    "strength=2": {
+      "model": "skijump:block/anemometer_2"
+    },
+    "strength=3": {
+      "model": "skijump:block/anemometer_3"
+    }
+  }
+}

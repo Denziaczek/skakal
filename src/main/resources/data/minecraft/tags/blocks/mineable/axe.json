@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "skijump:start_gate",
+    "skijump:judge_tower"
+  ]
+}

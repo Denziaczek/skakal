@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "skijump",
+  "version": "${version}",
+  "name": "Ski Jump",
+  "description": "Skoki narciarskie w Minecrafcie: rozbieg, wybicie, lot z balansem, telemark, zawody, kariera i skocznie wzorowane na prawdziwych.",
+  "authors": ["Ski Jump"],
+  "license": "MIT",
+  "icon": "assets/skijump/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.skijump.SkiJumpMod"],
+    "client": ["dev.skijump.client.SkiJumpClient"]
+  },
+  "mixins": ["skijump.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

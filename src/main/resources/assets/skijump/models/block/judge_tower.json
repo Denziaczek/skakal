@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "skijump:block/judge_tower_top",
+    "side": "skijump:block/judge_tower"
+  }
+}

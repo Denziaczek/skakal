@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "skijump:inrun_track",
+    "skijump:takeoff_table",
+    "skijump:k_marker",
+    "skijump:hs_marker",
+    "skijump:anemometer",
+    "skijump:scoreboard",
+    "skijump:competition_station",
+    "skijump:trophy_gold",
+    "skijump:trophy_silver",
+    "skijump:trophy_bronze"
+  ]
+}

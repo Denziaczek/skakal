@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "skijump:block/start_gate"
+    },
+    "facing=south": {
+      "model": "skijump:block/start_gate",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "skijump:block/start_gate",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "skijump:block/start_gate",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "wind": {
+    "subtitle": "skijump.subtitle.wind",
+    "sounds": [
+      {
+        "name": "minecraft:item.elytra.flying",
+        "type": "event",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "crowd": {
+    "subtitle": "skijump.subtitle.crowd",
+    "sounds": [
+      {
+        "name": "minecraft:entity.villager.celebrate",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.85
+      },
+      {
+        "name": "minecraft:entity.villager.yes",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.7
+      }
+    ]
+  },
+  "land": {
+    "subtitle": "skijump.subtitle.land",
+    "sounds": [
+      {
+        "name": "minecraft:block.snow.place",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.8
+      },
+      {
+        "name": "minecraft:block.snow.step",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.7
+      }
+    ]
+  },
+  "fall": {
+    "subtitle": "skijump.subtitle.fall",
+    "sounds": [
+      {
+        "name": "minecraft:entity.player.big_fall",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.9
+      },
+      {
+        "name": "minecraft:block.snow.break",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "start": {
+    "subtitle": "skijump.subtitle.start",
+    "sounds": [
+      {
+        "name": "minecraft:block.note_block.bell",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 1.2
+      }
+    ]
+  }
+}
